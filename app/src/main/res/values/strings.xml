@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_family">Family Members</string>
+    <string name="numberActivityLabel">Numbers</string>
+    <string name="phrasesActivityLabel">Phrases</string>
+    <string name="familyActivityLabel">Family</string>
+    <string name="colorsActivityLabel">Colors</string>
+    <string name="miwok_word"><![CDATA[<miwok_word>]]></string>
+    <string name="english_word"><![CDATA[<english_word>]]></string>
+
+</resources>
